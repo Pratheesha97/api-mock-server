@@ -1,10 +1,10 @@
-# API Mock Server
+# SOAP/REST API Mock Server
 
-This is a versatile tool for simulating API endpoints by returning example responses linked to each request. 
+This versatile tool allows you to simulate REST API endpoints by providing example responses linked to each request. It also offers support for SOAP, enabling you to simulate SOAP-based API endpoints and generate example SOAP responses for your SOAP clients.
 
 ## Getting Started
 
-Follow these steps to get started with the API Mock Server:
+Follow these steps to get started with the SOAP/REST API Mock Server:
 
 ### Prerequisites
 
@@ -15,13 +15,13 @@ Follow these steps to get started with the API Mock Server:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/Pratheesha97/api-mock-server.git
+   git clone https://github.com/Pratheesha97/soap-rest-api-mock-server.git
    ```
 
 2. Navigate to the project directory:
 
     ```
-    cd api-mock-server
+    cd soap-rest-api-mock-server
     ```
     
 4. Install the dependencies:
@@ -36,3 +36,4 @@ Follow these steps to get started with the API Mock Server:
 To start your server with hot deployment, run the following command:
 
     npm run dev
+
